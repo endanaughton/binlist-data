@@ -5584,7 +5584,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 492557,VISA,"","","",NO,DNBNOR,"",4791504800,""
 492578,VISA,"","","",NO,DNBNOR,"",4791507700,""
 492905,VISA,"","","",US,SANTANDER,"",-3509360,""
-492910,VISA,"","","",GB,BARCLAYCARD,"",08448119111,""
+492910,VISA,"",CREDIT,"",GB,BARCLAYCARD,"",08448119111,""
 492913,VISA,"","","",GB,BARCLAYS,"",08448119111,""
 492916,VISA,"","","",US,"","",-3509360,""
 492925,VISA,"","","",US,"","",-3509360,""
