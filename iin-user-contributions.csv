@@ -877,7 +877,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 431568,VISA,"","","",US,BANCORP,"",8005711376,""
 431692,VISA,"","","",US,REGIONS,"",8007344667,""
 431931,VISA,"","","",IE,ULSTER,"","",""
-431935,VISA,"","","",IE,PERMANENT TSB,"",1890500121,""
+431935,VISA,CLASSIC,DEBIT,"",IE,PERMANENT TSB,"",1890500121,""
 431939,VISA,"","","",IE,BANK OF IRELAND,"",0818365365,""
 431940,VISA,,DEBIT,,IE,BANK OF IRELAND,www.bankofireland.com,+353 567757007,Dublin
 431947,VISA,,DEBIT,,IE,ALLIED IRISH BANKS PLC,www.aib.ie,+353 16600311,Dublin
